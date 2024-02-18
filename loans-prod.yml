@@ -2,9 +2,9 @@ build:
   version: "2.0"
 
 loans:
-  message: "Welcome to EazyBank loans related production APIs..."
+  message: "Welcome to EazyBank loans related production APIs"
   contactDetails:
-    name: "Reine Aishwarya - Product Owner -- 1"
+    name: "Reine Aishwarya - Product Owner"
     email: "aishwarya@eazybank.com"
   onCallSupport:
     - (453) 392-4829
